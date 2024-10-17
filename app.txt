@@ -1,0 +1,17 @@
+나는 여기서는 다르게 쓰고 싶은데
+나는 여기서 새로운 것들을 수정할래
+
+main branch에서 수정했음~
+coupon branch에서 수정함~
+
+hello
+world!
+my name is
+bye
+
+first diff
+how to use
+commit 안 할 때만 diff 쓸 수 있음
+
+branch 이용을 공부하는 중입니다.
+branch에서 바꿀 때 저장이 되나요?
